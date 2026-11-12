@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" fill="none" role="img" aria-label="Julian Codespoti, Intelligent Apps Consultant at Arinco, Melbourne">
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="880" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1E293B" stroke-width="0.75"/>
+    </pattern>
+  </defs>
+
+  <rect width="880" height="190" rx="12" fill="url(#bg-dark)"/>
+  <rect width="880" height="190" rx="12" fill="url(#grid)" opacity="0.55"/>
+  <rect x="0.5" y="0.5" width="879" height="189" rx="11.5" stroke="#1E293B"/>
+
+  <rect x="40" y="38" width="44" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="40" y="78" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.6">
+    Julian Codespoti
+  </text>
+
+  <text x="40" y="108" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">
+    Intelligent Apps Consultant @ Arinco  ·  Melbourne, Australia
+  </text>
+
+  <text x="40" y="142" fill="#64748B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5">
+    C# / .NET  ·  Rust  ·  TypeScript  ·  Azure AI  ·  Deterministic Agent Systems
+  </text>
+
+  <g transform="translate(692, 42)" opacity="0.9">
+    <rect x="0" y="0" width="148" height="106" rx="8" fill="#0B0F19" stroke="#1E293B"/>
+    <circle cx="16" cy="15" r="3.5" fill="#334155"/>
+    <circle cx="28" cy="15" r="3.5" fill="#334155"/>
+    <circle cx="40" cy="15" r="3.5" fill="#334155"/>
+    <line x1="0" y1="28" x2="148" y2="28" stroke="#1E293B"/>
+    <text x="14" y="49" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">state</text>
+    <text x="58" y="49" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">deterministic</text>
+    <text x="14" y="69" fill="#818CF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">audit</text>
+    <text x="58" y="69" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">provenance</text>
+    <text x="14" y="89" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">evals</text>
+    <text x="58" y="89" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">operational</text>
+  </g>
+</svg>
